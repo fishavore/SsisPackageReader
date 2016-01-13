@@ -6,7 +6,7 @@ Document SSIS package content.
 
 ## Revision history
 
-    - 2016-01-12 Created this GitHub repo and uploaded files.
+- 2016-01-12 Created this GitHub repo and uploaded files.
 
 ## Description
 
