@@ -27,7 +27,7 @@ SSIS Package Reader provides free-form entry of a search term and returns all en
 
 ## Files
 
-- ContainerType.cs		Enumerator used by ReadingSsisPackage.cs
-- MainForm.cs			User interface
-- ReadingSsisPackage.cs	ReadingSsisPackage class
-- SsisPackageReader.exe	Windows Forms application
+ContainerType.cs | Enumerator used by ReadingSsisPackage.cs
+MainForm.cs | User interface
+ReadingSsisPackage.cs | ReadingSsisPackage class
+SsisPackageReader.exe | Windows Forms application
